@@ -1,0 +1,23 @@
+h1 {
+    background-color: #ff0000;
+    color: rgb(230, 0, 0);
+    text-align: center;
+}
+
+body {
+    background-image: url();
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+p {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1800px;
+    text-align: center;
+    font-family: "Briem Hand", cursive;
+    font-optical-sizing: auto;
+    font-weight: bold;
+    font-style: normal;
+}
